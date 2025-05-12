@@ -1,8 +1,6 @@
 import streamlit as st
 import joblib
 import pandas as pd
-import sys
-
 
 # Load the trained models
 damage_pipeline = joblib.load('models/damage_pipeline.pkl')
