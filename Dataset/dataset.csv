@@ -1,0 +1,1006 @@
+Site ID,Floor Type,Roof Type,Building Typology,Level of Inundation(cm),Hours of Inundation(hrs),Ratio of Damage(%),Loss(NPR)
+249013,PCC,Rigid Rcc slab and steel plate,Non Engineered RCC Frame,100,12,10.0,1000.0
+254854,PCC,Tile,Wattle Daub House,44,48,20.0,8000.0
+254854,PCC,Tile,Wattle Daub House,35,24,10.0,0.0
+255377,PCC,Tile,Brick Cement,10,48,23.0,4000.0
+249235,PCC,Rigid Rcc slab and steel plate,Non Engineered RCC Frame,70,24,10.0,5000.0
+249051,PCC,Rigid Rcc slab and steel plate,Non Engineered RCC Frame,55,24,20.0,5000.0
+255364,PCC,CGI Sheet,Fieldstone Masonry,50,48,30.0,150000.0
+266387,Mud,CGI Sheet,Wattle Daub House,135,24,40.0,50000.0
+249758,PCC,CGI Sheet,CGI Sheet,100,24,100.0,60000.0
+252760,PCC,CGI Sheet,Brick Cement,12,2,20.0,50000.0
+252761,PCC,CGI Sheet,Brick Cement,50,4,20.0,50000.0
+252757,PCC,CGI Sheet,Brick Cement,30,4,100.0,80000.0
+252757,PCC,CGI Sheet,Brick Cement,30,4,20.0,50000.0
+254876,PCC,CGI Sheet,Brick Cement,8,8,30.0,4000.0
+250467,RCC,Rigid Rcc slab and steel plate,Brick Cement,24,3,10.0,0.0
+254918,PCC,CGI Sheet,Brick Cement,20,200,30.0,2000.0
+248930,RCC,Rigid Rcc slab and steel plate,Brick Cement,12,48,18.0,60000.0
+250662,PCC,Tile,Brick Cement,24,12,20.0,0.0
+266640,Timber,Tile,Wattle Daub House,24,12,80.0,0.0
+250430,Mud,Tile,Wattle Daub House,24,12,80.0,0.0
+252330,PCC,Rigid Rcc slab and steel plate,Brick Cement,500,168,100.0,50000.0
+266671,Mud,CGI Sheet,Brick Cement,39,168,50.0,40000.0
+266673,Mud,CGI Sheet,CGI Sheet,39,168,40.0,7000.0
+266686,RCC,Rigid Rcc slab and steel plate,Brick Cement,20,48,80.0,50000.0
+266729,RCC,Rigid Rcc slab and steel plate,Brick Cement,5,6,20.0,0.0
+252270,PCC,CGI Sheet,Brick Cement,100,24,100.0,200000.0
+252291,Mud,CGI Sheet,Timber House,50,5,40.0,20000.0
+252290,PCC,Rigid Rcc slab and steel plate,Brick Cement,200,24,100.0,200000.0
+254942,Mud,CGI Sheet,CGI Sheet,20,30,30.0,20000.0
+252274,PCC,Rigid Rcc slab and steel plate,Brick Cement,200,24,100.0,30000.0
+252263,PCC,CGI Sheet,Brick Cement,200,24,100.0,40000.0
+252292,PCC,Rigid Rcc slab and steel plate,Brick Cement,200,24,100.0,20000.0
+250568,RCC,Rigid Rcc slab and steel plate,Brick Cement,24,12,90.0,0.0
+266835,PCC,Rigid Rcc slab and steel plate,Brick Cement,200,48,100.0,25000.0
+266859,Mud,Thatched Roof,Wattle Daub House,200,24,100.0,20000.0
+252407,Mud,CGI Sheet,Brick Cement,200,24,100.0,150000.0
+252383,PCC,Rigid Rcc slab and steel plate,Brick Cement,100,24,50.0,60000.0
+252409,Mud,CGI Sheet,Timber House,200,24,100.0,200000.0
+254547,Mud,Tile,Brick Cement,2,28,2.0,25000.0
+249836,RCC,Rigid Rcc slab and steel plate,Brick Cement,6,72,84.0,60000.0
+255341,PCC,CGI Sheet,CGI Sheet,9,12,10.0,1000.0
+249159,PCC,Rigid Rcc slab and steel plate,Non Engineered RCC Frame,45,36,10.0,5000.0
+248967,RCC,Rigid Rcc slab and steel plate,Brick Cement,10,72,45.0,25000.0
+253341,PCC,Rigid Rcc slab and steel plate,Brick Cement,105,24,5.0,20000.0
+253583,Mud,Thatched Roof,Wattle Daub House,105,24,10.0,20000.0
+253982,PCC,Rigid Rcc slab and steel plate,Brick Cement,105,24,10.0,20000.0
+253678,PCC,Rigid Rcc slab and steel plate,Brick Cement,100,48,10.0,30000.0
+253587,PCC,CGI Sheet,Adobe Mud Block,80,72,10.0,26000.0
+253728,PCC,Rigid Rcc slab and steel plate,Adobe Mud Block,140,24,5.0,10000.0
+268083,Mud,CGI Sheet,Brick Cement,100,9,60.0,200000.0
+249498,PCC,Rigid Rcc slab and steel plate,Non Engineered RCC Frame,100,4,10.0,20000.0
+249502,PCC,Rigid Rcc slab and steel plate,Non Engineered RCC Frame,150,4,15.0,10000.0
+249500,Mud,CGI Sheet,CGI Sheet,100,5,10.0,10000.0
+249508,Mud,CGI Sheet,CGI Sheet,55,6,15.0,10000.0
+268164,Mud,CGI Sheet,Non Engineered RCC Frame,70,5,15.0,5000.0
+249753,Mud,CGI Sheet,Wattle Daub House,5,48,40.0,60000.0
+249496,PCC,Rigid Rcc slab and steel plate,CGI Sheet,100,5,25.0,80000.0
+268181,PCC,CGI Sheet,Non Engineered RCC Frame,45,5,10.0,4000.0
+249556,Mud,CGI Sheet,CGI Sheet,100,6,10.0,10000.0
+253591,PCC,Rigid Rcc slab and steel plate,Adobe Mud Block,60,48,5.0,15000.0
+249554,Mud,CGI Sheet,CGI Sheet,100,7,25.0,10000.0
+249544,PCC,CGI Sheet,CGI Sheet,100,6,30.0,20000.0
+249506,PCC,CGI Sheet,CGI Sheet,70,5,30.0,10000.0
+249540,PCC,Rigid Rcc slab and steel plate,Non Engineered RCC Frame,60,5,15.0,10000.0
+268263,RCC,Rigid Rcc slab and steel plate,Brick Cement,16,72,80.0,100000.0
+251561,Mud,Tile,Timber House,200,36,100.0,200000.0
+252514,Mud,CGI Sheet,Timber House,30,12,5.0,20000.0
+271144,Mud,Tile,Wattle Daub House,54,24,40.0,6000.0
+271144,Mud,Tile,Wattle Daub House,53,24,20.0,25000.0
+276205,PCC,CGI Sheet,Brick Cement,54,48,10.0,30000.0
+276206,PCC,Tile,Brick Cement,60,120,10.0,60000.0
+276206,PCC,Tile,Brick Cement,58,48,10.0,40000.0
+276207,PCC,CGI Sheet,Brick Cement,51,120,20.0,100000.0
+276207,PCC,CGI Sheet,Brick Cement,48,48,19.0,150000.0
+272849,PCC,Tile,Brick Cement,53,120,20.0,60000.0
+272849,PCC,Tile,Brick Cement,52,48,10.0,30000.0
+272849,PCC,Tile,Brick Cement,49,48,8.0,15000.0
+253842,Others,Tile,Wattle Daub House,54,120,20.0,70000.0
+253842,Others,Tile,Wattle Daub House,53,48,10.0,50000.0
+253842,Others,Tile,Wattle Daub House,50,48,5.0,5000.0
+253842,Others,Tile,Wattle Daub House,54,120,20.0,50000.0
+253842,Others,Tile,Wattle Daub House,53,48,15.0,60000.0
+253842,Others,Tile,Wattle Daub House,48,48,5.0,20000.0
+272861,Mud,CGI Sheet,Adobe Mud Block,56,48,15.0,40000.0
+272861,Mud,CGI Sheet,Adobe Mud Block,53,48,5.0,1000.0
+272891,PCC,Tile,Brick Cement,46,48,30.0,200000.0
+272891,PCC,Tile,Brick Cement,31,48,10.0,30000.0
+272943,PCC,CGI Sheet,Brick Cement,55,48,20.0,60000.0
+253582,PCC,Rigid Rcc slab and steel plate,Adobe Mud Block,70,5,5.0,15000.0
+253513,PCC,CGI Sheet,Brick Cement,56,48,25.0,70000.0
+253520,PCC,CGI Sheet,Brick Cement,56,48,30.0,80000.0
+272971,PCC,Rigid Rcc slab and steel plate,Brick Cement,24,24,100.0,12000.0
+254070,PCC,Rigid Rcc slab and steel plate,Adobe Mud Block,60,18,5.0,20000.0
+254069,PCC,Rigid Rcc slab and steel plate,Brick Cement,35,18,5.0,15000.0
+253871,PCC,CGI Sheet,Brick Cement,42,48,20.0,70000.0
+253843,Mud,CGI Sheet,Adobe Mud Block,59,48,25.0,70000.0
+254127,PCC,CGI Sheet,Brick Cement,40,48,15.0,9000.0
+253928,PCC,Rigid Rcc slab and steel plate,Adobe Mud Block,80,24,1.0,7000.0
+251403,Mud,Thatched Roof,Timber House,200,12,100.0,60000.0
+251427,Mud,Thatched Roof,Timber House,30,6,15.0,15000.0
+279378,Mud,Thatched Roof,Wattle Daub House,24,12,90.0,5000.0
+254133,PCC,Rigid Rcc slab and steel plate,Brick Cement,31,48,20.0,90000.0
+283367,PCC,CGI Sheet,Brick Cement,100,8,100.0,200000.0
+253457,PCC,Rigid Rcc slab and steel plate,Non Engineered RCC Frame,40,24,10.0,20000.0
+254003,PCC,Rigid Rcc slab and steel plate,Non Engineered RCC Frame,100,3,10.0,10000.0
+254140,PCC,Rigid Rcc slab and steel plate,Non Engineered RCC Frame,45,6,30.0,15000.0
+254139,PCC,CGI Sheet,CGI Sheet,50,7,10.0,10000.0
+253552,PCC,CGI Sheet,CGI Sheet,50,5,50.0,60000.0
+254273,Mud,CGI Sheet,Brick Cement,200,12,100.0,200000.0
+283747,Mud,CGI Sheet,Wattle Daub House,8,72,60.0,60000.0
+249866,RCC,Rigid Rcc slab and steel plate,Brick Cement,9,72,55.0,60000.0
+239984,PCC,Rigid Rcc slab and steel plate,Brick Cement,11,10,50.0,25000.0
+226065,Mud,CGI Sheet,Brick Cement,3,44,5.0,20000.0
+226561,RCC,CGI Sheet,CGI Sheet,24,120,25.0,6000.0
+225887,RCC,CGI Sheet,CGI Sheet,24,120,25.0,2000.0
+241263,RCC,Rigid Rcc slab and steel plate,MRT Engineered Frame Building,5,5,10.0,50000.0
+240525,PCC,Tile,CGI Sheet,2,48,3.0,10000.0
+189058,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,120,2,30.0,200000.0
+108279,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,45,1,1.0,45.0
+111008,Semi Rigid Timber,Flexible Timber without Brace Steel,Brick Mud,5,5,50.0,90000.0
+108449,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,60,10,25.0,30000.0
+188489,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,60,3,25.0,35000.0
+109696,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,40,1,0.0,0.0
+108540,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,60,7,25.0,50000.0
+108539,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,60,8,30.0,50000.0
+110153,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,50,15,20.0,0.0
+110175,Mud,Tile,Brick Mud,30,3,30.0,5000.0
+110161,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,30,1,10.0,0.0
+108089,Mud,Rigid Rcc slab and steel plate,Brick Mud,60,3,30.0,30000.0
+108088,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,60,3,30.0,30000.0
+109291,Mud,Tile,Brick Mud,30,3,40.0,100000.0
+109270,Mud,Tile,Brick Mud,60,2,40.0,100000.0
+188490,Mud,Tile,Temporary House with Thatched Mud Roof,90,1,40.0,40000.0
+108085,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,60,2,40.0,50000.0
+108086,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,30,2,50.0,100000.0
+108982,Rigid Rcc slab and steel plate,Tile,Brick Mud,90,2,50.0,80000.0
+108082,Rigid Rcc slab and steel plate,Tile,Temporary House with Thatched Mud Roof,60,2,40.0,40000.0
+109326,Rigid Rcc slab and steel plate,Tile,Temporary House with Thatched Mud Roof,60,2,20.0,40000.0
+108075,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,60,2,10.0,10000.0
+110676,Mud,Rigid Rcc slab and steel plate,Brick Mud,60,2,20.0,20000.0
+109470,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,35,7,40.0,5000.0
+108538,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,200,5,50.0,120000.0
+108550,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,150,6,60.0,120000.0
+108578,Mud,Flexible Timber without Brace Steel,Brick Mud,120,6,60.0,200000.0
+108502,Others,Rigid Rcc slab and steel plate,Brick Mud,120,7,61.0,80000.0
+108520,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,200,7,65.0,160000.0
+108511,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,180,7,65.0,120000.0
+108421,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,210,8,50.0,125000.0
+108479,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,120,3,45.0,165000.0
+108543,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,110,3,45.0,120000.0
+108355,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,200,5,65.0,71000.0
+108354,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,100,5,50.0,86000.0
+108353,Mud,Flexible Timber without Brace Steel,Stone Cement Mortar,200,6,45.0,150000.0
+108530,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,200,6,45.0,120000.0
+108556,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,120,120,25.0,65000.0
+108455,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Non Engineered Reinforced Concrete Frame,20,2,0.0,0.0
+108456,Mud,Flexible Timber without Brace Steel,Brick Mud,60,7,10.0,150000.0
+108611,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,80,7,45.0,150000.0
+110360,Mud,Tile,Temporary House with Thatched Mud Roof,90,3,40.0,15000.0
+108448,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,60,3,0.0,0.0
+108612,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,90,4,40.0,150000.0
+108989,Rigid Rcc slab and steel plate,Tile,Brick Mud,60,1,20.0,40000.0
+109280,Mud,Tile,Brick Mud,90,2,20.0,20000.0
+108059,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,60,2,50.0,50000.0
+108273,Rigid Rcc slab and steel plate,Tile,Brick Mud,90,2,40.0,22000.0
+108317,Mud,Flexible Timber without Brace Steel,Stone Cement Mortar,60,7,5.0,15000.0
+108523,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,60,3,30.0,12000.0
+110373,Mud,Tile,Temporary House with Thatched Mud Roof,110,2,40.0,30000.0
+172736,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,75,2,40.0,20000.0
+108945,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,60,2,30.0,40000.0
+108060,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick in Mud General,60,3,50.0,50000.0
+108447,Mud,Rigid Rcc slab and steel plate,Non Engineered Reinforced Concrete Frame,60,7,30.0,100000.0
+172737,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,30,7,5.0,25000.0
+110357,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,100,2,40.0,40000.0
+110899,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Non Engineered Reinforced Concrete Frame,40,7,30.0,100000.0
+110901,Mud,Flexible Timber without Brace Steel,Brick Mud,60,7,10.0,25000.0
+110903,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,60,7,5.0,50000.0
+109216,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,5,1,0.0,0.0
+110902,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,35,7,40.0,130000.0
+108416,Others,Flexible Timber without Brace Steel,Stone Mud Mortar,70,3,35.0,40000.0
+109160,Mud,Flexible Timber without Brace Steel,Brick Mud,80,5,50.0,15000.0
+110936,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Non Engineered Reinforced Concrete Frame,60,5,5.0,10000.0
+109236,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,10,1,0.0,0.0
+110943,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,50,2,5.0,25000.0
+109235,Mud,Semi Rigid Timber Joists with Brace Steel,Stone Mud Mortar,5,1,10.0,0.0
+110909,Mud,Flexible Timber without Brace Steel,Stone Cement Mortar,60,7,25.0,35000.0
+108058,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,60,1,20.0,25000.0
+108061,Rigid Rcc slab and steel plate,Tile,Brick Mud,120,2,20.0,100000.0
+108929,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,60,2,50.0,50000.0
+108943,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,90,2,30.0,100000.0
+108159,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,60,2,20.0,20000.0
+108938,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,60,2,20.0,20000.0
+108062,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,90,2,20.0,20000.0
+110690,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,60,2,20.0,20000.0
+108971,Rigid Rcc slab and steel plate,Tile,Brick Mud,60,2,20.0,20000.0
+108064,Rigid Rcc slab and steel plate,Tile,Brick Mud,120,2,20.0,15000.0
+108063,Rigid Rcc slab and steel plate,Tile,Brick Mud,60,2,20.0,20000.0
+109905,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,5,3,5.0,5000.0
+108179,Rigid Rcc slab and steel plate,Tile,Brick in Mud General,25,4,10.0,50000.0
+172743,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,200,6,45.0,51000.0
+172745,Mud,Semi Rigid Timber Joists with Brace Steel,Stone Cement Mortar,185,6,45.0,65000.0
+172746,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Timber House,170,5,65.0,150000.0
+108054,Mud,Flexible Timber without Brace Steel,Brick Mud,220,6,45.0,60000.0
+172747,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,180,6,55.0,120000.0
+108572,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,150,6,55.0,150000.0
+108352,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,165,3,60.0,160000.0
+108476,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,200,4,45.0,60000.0
+108046,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,200,5,35.0,98000.0
+173309,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,200,4,45.0,120000.0
+172748,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,200,6,45.0,120000.0
+108047,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,130,4,55.0,200000.0
+108048,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,180,4,35.0,90000.0
+108357,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,180,5,45.0,135000.0
+108480,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,6,45.0,150000.0
+108517,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,5,35.0,85000.0
+108561,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,220,6,65.0,165000.0
+172749,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,195,5,40.0,80000.0
+110931,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,60,7,40.0,50000.0
+110910,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Non Engineered Reinforced Concrete Frame,60,7,30.0,80000.0
+109162,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Mud Mortar,60,2,0.0,0.0
+108275,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,120,2,45.0,80000.0
+108461,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,80,7,40.0,100000.0
+108536,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,40,2,0.0,0.0
+108290,Mud,Wood,Temporary House with Thatched Mud Roof,60,8,50.0,75000.0
+108926,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,115,2,40.0,30000.0
+108604,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,40,2,0.0,0.0
+172755,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,30,7,5.0,25000.0
+172756,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,110,2,30.0,30000.0
+108305,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,60,4,0.0,0.0
+108524,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,60,7,45.0,100000.0
+172758,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Non Engineered Reinforced Concrete Frame,60,7,40.0,150000.0
+172759,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,110,2,30.0,30000.0
+110389,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Non Engineered Reinforced Concrete Frame,30,5,5.0,10000.0
+108285,Mud,Tile,Stone Mud Mortar,110,2,40.0,100000.0
+110874,Rigid Rcc slab and steel plate,Tile,Stone Cement Mortar,70,5,50.0,20000.0
+110894,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,70,3,0.0,0.0
+108282,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,110,2,40.0,50000.0
+110665,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,90,2,30.0,50000.0
+108160,Mud,Tile,Temporary House with Thatched Mud Roof,90,2,20.0,10000.0
+188482,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,90,2,20.0,40000.0
+108130,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,60,2,30.0,40000.0
+110691,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,30,2,20.0,20000.0
+110708,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick in Mud General,60,2,20.0,50000.0
+108044,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,60,2,20.0,50000.0
+110687,Mud,Rigid Rcc slab and steel plate,Brick Mud,60,2,30.0,100000.0
+110705,Rigid Rcc slab and steel plate,Tile,Brick Mud,160,2,20.0,20000.0
+110706,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,60,2,30.0,20000.0
+108967,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,120,2,30.0,30000.0
+110418,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,50,2,20.0,1000.0
+109144,Others,Tile,Brick Mud,5,5,0.0,0.0
+108501,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,180,7,60.0,150000.0
+110154,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,50,3,20.0,7000.0
+172767,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,10,3,20.0,25000.0
+172769,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,50,3,23.0,25000.0
+108415,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,220,5,45.0,160000.0
+172773,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,185,5,56.0,150000.0
+108356,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,185,5,45.0,135000.0
+108361,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,185,5,55.0,85000.0
+108364,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,175,6,45.0,150000.0
+110351,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,175,5,55.0,120000.0
+108545,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,175,6,55.0,120000.0
+110352,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,230,5,60.0,175000.0
+110405,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,220,5,55.0,95000.0
+108368,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,185,4,50.0,120000.0
+108372,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,220,3,55.0,160000.0
+108534,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,210,4,55.0,80000.0
+108052,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,225,4,40.0,95000.0
+108374,Rigid Rcc slab and steel plate,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,200,4,55.0,80000.0
+108544,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,160,4,55.0,90000.0
+172775,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,185,5,55.0,160000.0
+110276,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,15,0,0.0,0.0
+110279,Rigid Rcc slab and steel plate,Tile,Brick Mud,5,2,0.0,0.0
+108535,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,225,5,35.0,80000.0
+108170,Mud,Flexible Timber without Brace Steel,Brick Mud,5,4,0.0,0.0
+108169,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,15,4,0.0,0.0
+109207,Mud,Tile,Temporary House with Thatched Mud Roof,10,5,0.0,0.0
+108174,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,8,0,0.0,0.0
+110293,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,20,6,0.0,0.0
+110282,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,15,7,0.0,0.0
+172776,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,20,7,0.0,0.0
+108171,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,10,0,0.0,0.0
+108172,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,15,0,0.0,0.0
+172777,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,15,0,0.0,0.0
+172778,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,10,0,0.0,0.0
+110299,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,10,0,0.0,0.0
+109909,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,10,1,5.0,2000.0
+109566,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,15,2,5.0,5000.0
+172780,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,110,2,40.0,70000.0
+172781,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,110,2,30.0,50000.0
+110344,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,110,2,30.0,30000.0
+110362,Mud,Rigid Rcc slab and steel plate,Stone Cement Mortar,110,2,30.0,60000.0
+172782,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,110,2,30.0,150000.0
+110412,Mud,Tile,Stone Mud Mortar,110,2,40.0,60000.0
+108984,Mud,Tile,Stone Mud Mortar,110,2,35.0,45000.0
+109664,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,65,7,30.0,20000.0
+109659,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,14,4,0.0,0.0
+172783,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Mud Mortar,115,2,35.0,60000.0
+109640,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,55,10,40.0,1000.0
+108284,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,110,2,35.0,80000.0
+172784,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,110,2,32.0,60000.0
+109009,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,110,2,40.0,150000.0
+110345,Mud,Tile,Stone Cement Mortar,110,2,30.0,100000.0
+109013,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,110,2,60.0,100000.0
+108286,Mud,Flexible Timber without Brace Steel,Stone Cement Mortar,118,2,30.0,50000.0
+172785,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,110,2,35.0,60000.0
+172786,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,110,2,35.0,60000.0
+109654,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,30,3,0.0,0.0
+109663,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,30,4,0.0,0.0
+188484,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,110,2,40.0,60000.0
+108281,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,110,2,35.0,50000.0
+108935,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,110,2,35.0,80000.0
+109510,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,20,6,0.0,0.0
+109514,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,10,1,0.0,0.0
+109511,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,32,5,20.0,15000.0
+110663,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,60,2,20.0,20000.0
+110662,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,60,2,20.0,20000.0
+110664,Mud,Flexible Timber without Brace Steel,Brick Mud,90,2,30.0,30000.0
+109004,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,60,2,20.0,20000.0
+108999,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,30,2,20.0,20000.0
+108897,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,90,2,20.0,20000.0
+108947,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,90,2,20.0,20000.0
+108948,Mud,Flexible Timber without Brace Steel,Brick Mud,60,2,20.0,50000.0
+108899,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,90,2,20.0,20000.0
+108898,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,90,2,20.0,20000.0
+108900,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,90,2,20.0,20000.0
+110095,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,90,2,20.0,20000.0
+108902,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,60,2,20.0,20000.0
+110097,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,60,2,20.0,20000.0
+110083,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,30,2,20.0,20000.0
+172812,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,220,5,35.0,80000.0
+108038,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,220,4,35.0,75000.0
+172813,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,4,55.0,75000.0
+110406,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,260,5,45.0,180000.0
+172814,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,225,5,55.0,125000.0
+108483,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,285,6,55.0,180000.0
+108378,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,225,5,45.0,120000.0
+172815,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,275,5,65.0,95000.0
+108380,Mud,Flexible Timber without Brace Steel,Brick Mud,265,5,55.0,160000.0
+172816,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,200,5,45.0,60000.0
+172817,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,250,5,65.0,90000.0
+172818,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,220,5,55.0,95000.0
+108579,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,200,5,55.0,150000.0
+108458,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,220,175,55.0,80000.0
+108454,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,150,5,45.0,80000.0
+108459,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,220,5,45.0,95000.0
+108457,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,220,2,54.0,95000.0
+108581,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,125,3,45.0,120000.0
+108460,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,225,4,45.0,150000.0
+108407,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,125,4,45.0,95000.0
+108417,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,225,5,55.0,85000.0
+108402,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,60,7,30.0,75000.0
+109655,Mud,Rigid Rcc slab and steel plate,Brick Mud,85,10,30.0,30000.0
+108425,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,110,2,30.0,40000.0
+108527,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,100,2,40.0,50000.0
+108424,Mud,Rigid Rcc slab and steel plate,Stone Cement Mortar,110,2,35.0,40000.0
+108983,Mud,Tile,Stone Cement Mortar,100,2,30.0,50000.0
+109651,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,30,4,10.0,50000.0
+108333,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,100,2,30.0,30000.0
+109637,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,30,5,10.0,50000.0
+108469,Mud,Rigid Rcc slab and steel plate,Stone Cement Mortar,100,2,40.0,70000.0
+108590,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Mud Mortar,100,2,35.0,40000.0
+108589,Mud,Tile,Brick Mud,110,2,30.0,40000.0
+172822,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,100,2,35.0,80000.0
+109656,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,65,8,20.0,30000.0
+108586,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,100,2,30.0,50000.0
+108264,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,30,5,15.0,50000.0
+109546,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,35,2,0.0,0.0
+109668,Mud,Flexible Timber without Brace Steel,Brick Mud,40,2,0.0,0.0
+109653,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,55,3,0.0,0.0
+172825,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,35,2,0.0,0.0
+109638,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,40,1,0.0,0.0
+172826,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Non Engineered Reinforced Concrete Frame,30,2,0.0,0.0
+109480,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,35,2,0.0,0.0
+108513,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,100,2,30.0,50000.0
+109553,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,30,5,15.0,20000.0
+108585,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,110,2,35.0,200000.0
+108328,Mud,Tile,Brick in Mud General,100,2,35.0,200000.0
+109550,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,60,7,25.0,200000.0
+108423,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,110,2,35.0,60000.0
+109548,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,30,7,25.0,50000.0
+108327,Mud,Tile,Stone Cement Mortar,90,2,40.0,60000.0
+108515,Mud,Rigid Rcc slab and steel plate,Stone Mud Mortar,110,2,35.0,60000.0
+108552,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,110,2,30.0,100000.0
+110703,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,2,50.0,50000.0
+108045,Mud,Rigid Rcc slab and steel plate,Brick Mud,120,2,20.0,30000.0
+110689,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,120,2,30.0,100000.0
+108129,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,120,2,30.0,30000.0
+109512,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,12,5,5.0,5000.0
+172835,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,5,2,2.0,2000.0
+172837,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,35,2,10.0,10000.0
+109502,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,10,5,5.0,5000.0
+109468,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,15,3,5.0,0.0
+109504,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,12,2,5.0,2000.0
+172838,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,25,5,15.0,15000.0
+172839,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,10,2,1.0,1000.0
+109197,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,15,5,25.0,10000.0
+172840,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Mud Mortar,40,5,20.0,10000.0
+109239,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,10,1,10.0,5000.0
+110948,Mud,Flexible Timber without Brace Steel,Brick Mud,35,10,10.0,10000.0
+172841,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,45,10,10.0,10000.0
+109240,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,30,7,10.0,50000.0
+109243,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,15,5,10.0,50000.0
+109244,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,10,10,0.0,0.0
+109205,Mud,Flexible Timber without Brace Steel,Brick Mud,30,7,0.0,0.0
+109489,Mud,Flexible Timber without Brace Steel,Brick Mud,6,0,0.0,0.0
+172850,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,10,7,0.0,0.0
+172851,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,30,7,0.0,0.0
+172852,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,30,15,5.0,5000.0
+172853,Mud,Flexible Timber without Brace Steel,Brick Mud,20,2,0.0,0.0
+172854,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,10,1,0.0,0.0
+109619,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,20,2,0.0,0.0
+109580,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,5,1,0.0,0.0
+109579,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,5,1,0.0,0.0
+108307,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,125,5,45.0,85000.0
+108463,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,125,3,45.0,85000.0
+172856,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,100,3,35.0,95000.0
+172857,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,100,3,45.0,85000.0
+172858,Mud,Flexible Timber without Brace Steel,Brick Mud,200,3,55.0,195000.0
+108411,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,185,3,40.0,180000.0
+108568,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,185,3,45.0,125000.0
+108546,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,120,3,35.0,120000.0
+108412,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,125,3,45.0,130000.0
+172859,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,125,3,35.0,75000.0
+108409,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,175,3,45.0,65000.0
+108410,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,125,3,45.0,90000.0
+108413,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,25,3,35.0,65000.0
+108401,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,30,3,30.0,65000.0
+108403,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,75,3,35.0,55000.0
+172860,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,25,4,35.0,85000.0
+173312,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,75,3,25.0,40000.0
+108442,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,75,3,35.0,65000.0
+172861,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,75,3,45.0,75000.0
+108404,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,125,3,45.0,95000.0
+108406,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick in Mud General,100,4,45.0,180000.0
+172862,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,110,4,25.0,55000.0
+110386,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,125,4,55.0,155000.0
+108039,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,75,4,45.0,85000.0
+172863,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,125,4,45.0,110000.0
+109125,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,40,7,10.0,0.0
+109114,Mud,Flexible Timber without Brace Steel,Brick Mud,40,7,10.0,0.0
+172864,Mud,Tile,Stone Mud Mortar,110,2,30.0,200000.0
+108600,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,90,2,35.0,40000.0
+108583,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,90,2,35.0,60000.0
+172865,Mud,Rigid Rcc slab and steel plate,Stone Cement Mortar,95,2,40.0,25000.0
+172866,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,100,2,30.0,40000.0
+108322,Mud,Flexible Timber without Brace Steel,Stone Cement Mortar,100,2,25.0,30000.0
+109190,Mud,Rigid Rcc slab and steel plate,Non Engineered Reinforced Concrete Frame,30,5,15.0,50000.0
+108598,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,100,2,20.0,60000.0
+109164,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,30,5,25.0,200000.0
+108597,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,100,2,35.0,40000.0
+172867,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,30,5,20.0,50000.0
+108346,Mud,Flexible Timber without Brace Steel,Stone Cement Mortar,100,2,30.0,20000.0
+172868,Mud,Semi Rigid Timber Joists with Brace Steel,Stone Mud Mortar,30,5,25.0,10000.0
+108474,Rigid Rcc slab and steel plate,Tile,Stone Mud Mortar,100,2,20.0,100000.0
+108557,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,100,2,35.0,60000.0
+108562,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,100,2,35.0,35000.0
+172870,Mud,Rigid Rcc slab and steel plate,Non Engineered Reinforced Concrete Frame,30,5,15.0,50000.0
+109187,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,30,5,15.0,100000.0
+108473,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,100,2,35.0,50000.0
+172871,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,30,5,25.0,50000.0
+109669,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,30,2,0.0,0.0
+108596,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,100,2,30.0,150000.0
+109183,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,30,5,15.0,50000.0
+108345,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,100,2,35.0,70000.0
+109182,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,30,5,15.0,100000.0
+108349,Mud,Flexible Timber without Brace Steel,Stone Cement Mortar,100,2,35.0,55000.0
+109174,Mud,Flexible Timber without Brace Steel,Brick in Mud General,30,5,25.0,100000.0
+108477,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Mud Mortar,100,2,35.0,40000.0
+108475,Mud,Rigid Rcc slab and steel plate,Stone Cement Mortar,100,2,35.0,50000.0
+109175,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,30,7,25.0,100000.0
+108478,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,110,2,30.0,100000.0
+109177,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,30,5,25.0,50000.0
+108351,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,110,2,35.0,50000.0
+110683,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,60,2,20.0,10000.0
+110702,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,120,4,30.0,50000.0
+110655,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,120,2,20.0,30000.0
+110654,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,120,2,20.0,40000.0
+109012,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,150,7,30.0,30000.0
+110653,Mud,Rigid Rcc slab and steel plate,Brick Mud,120,2,20.0,20000.0
+110652,Rigid Rcc slab and steel plate,Tile,Brick Mud,120,2,20.0,20000.0
+110712,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,2,20.0,20000.0
+108332,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,120,2,20.0,40000.0
+110638,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,120,2,20.0,20000.0
+110639,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,2,20.0,50000.0
+110632,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,10,20.0,20000.0
+110696,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,2,20.0,40000.0
+110628,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,120,2,20.0,40000.0
+110627,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,3,20.0,20000.0
+108978,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,90,2,20.0,20000.0
+110660,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,150,2,20.0,50000.0
+108341,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,120,2,20.0,200000.0
+110679,Mud,Rigid Rcc slab and steel plate,Brick Mud,120,2,20.0,20000.0
+108331,Mud,Tile,Brick Mud,120,2,20.0,20000.0
+110688,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,2,20.0,20000.0
+109643,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,40,2,0.0,0.0
+172872,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,95,2,0.0,0.0
+109188,Mud,Flexible Timber without Brace Steel,Stone Cement Mortar,6,3,5.0,5000.0
+109200,Mud,Flexible Timber without Brace Steel,Stone Cement Mortar,40,5,10.0,50000.0
+110291,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,30,5,5.0,5000.0
+109204,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,50,5,50.0,20000.0
+110295,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,35,10,25.0,10000.0
+172881,Mud,Flexible Timber without Brace Steel,Brick Mud,15,3,5.0,2000.0
+172882,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,5,3,5.0,5000.0
+172884,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,5,0,0.0,0.0
+109210,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,5,1,0.0,0.0
+108165,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,5,1,0.0,0.0
+109209,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,5,1,0.0,0.0
+109206,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,5,0,0.0,0.0
+109202,Mud,Flexible Timber without Brace Steel,Brick Mud,10,2,0.0,0.0
+109201,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,10,1,0.0,0.0
+109198,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,30,2,7.0,25000.0
+108350,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,115,2,35.0,55000.0
+108348,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Mud Mortar,110,2,35.0,35000.0
+108347,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,110,2,20.0,100000.0
+109192,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,30,7,25.0,0.0
+109168,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,30,5,25.0,100000.0
+108516,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,115,2,35.0,60000.0
+108533,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Mud Mortar,115,2,35.0,45000.0
+108300,Mud,Flexible Timber without Brace Steel,Stone Cement Mortar,30,5,25.0,100000.0
+108592,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,115,2,30.0,40000.0
+108289,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Non Engineered Reinforced Concrete Frame,30,5,25.0,100000.0
+108359,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,115,2,35.0,55000.0
+109165,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,30,5,25.0,100000.0
+108482,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Mud Mortar,115,2,29.0,45000.0
+108263,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,15,5,25.0,50000.0
+109478,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,15,5,25.0,75000.0
+110404,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,115,2,25.0,35000.0
+109620,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,15,5,15.0,50000.0
+110353,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,115,2,35.0,50000.0
+110356,Mud,Flexible Timber without Brace Steel,Stone Cement Mortar,115,2,28.0,35000.0
+108376,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,115,2,35.0,80000.0
+108381,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,110,2,25.0,100000.0
+108379,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,115,2,40.0,50000.0
+110369,Mud,Rigid Rcc slab and steel plate,Stone Cement Mortar,110,2,20.0,60000.0
+110341,Mud,Tile,Temporary House with Thatched Mud Roof,120,2,30.0,20000.0
+108216,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,90,3,30.0,30000.0
+110403,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,120,1,20.0,50000.0
+172901,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,90,2,20.0,20000.0
+110371,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,90,1,20.0,20000.0
+108218,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,120,4,20.0,100000.0
+110343,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,4,20.0,50000.0
+108217,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,2,20.0,30000.0
+110372,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,3,30.0,50000.0
+110342,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,90,2,20.0,20000.0
+108213,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,120,2,20.0,30000.0
+108551,Mud,Tile,Stone Mud Mortar,100,2,20.0,50000.0
+108602,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,115,2,35.0,40000.0
+108419,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,115,2,35.0,55000.0
+108342,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,100,2,30.0,40000.0
+108321,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,110,2,30.0,60000.0
+108323,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,90,2,38.0,45000.0
+188711,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,100,2,30.0,28000.0
+110992,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,30,7,10.0,50000.0
+108642,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,10,4,5.0,10000.0
+108692,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,35,10,25.0,20000.0
+109203,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,15,2,5.0,10000.0
+108643,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,30,5,5.0,5000.0
+108675,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,5,2,5.0,5000.0
+108671,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,10,1,5.0,5000.0
+108704,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,25,3,15.0,15000.0
+108648,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,25,5,5.0,5000.0
+108664,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,50,5,20.0,25000.0
+108670,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,35,3,10.0,15000.0
+108672,Rigid Rcc slab and steel plate,Semi Rigid Timber Joists with Brace Steel,Stone Mud Mortar,30,3,10.0,10000.0
+108637,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,25,4,20.0,25000.0
+108638,Mud,Semi Rigid Timber Joists with Brace Steel,Stone Mud Mortar,25,3,15.0,25000.0
+188486,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,20,3,20.0,25000.0
+108687,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,35,2,15.0,25000.0
+172947,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,60,2,5.0,15000.0
+108695,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,20,4,0.0,0.0
+108678,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,10,7,0.0,0.0
+108647,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,30,7,0.0,0.0
+172959,Mud,Flexible Timber without Brace Steel,Brick Mud,30,8,0.0,0.0
+108646,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,15,7,0.0,0.0
+172960,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,10,0,0.0,0.0
+108445,Mud,Flexible Timber without Brace Steel,Brick Mud,100,4,45.0,75000.0
+108387,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,25,4,45.0,65000.0
+108518,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Mud Mortar,75,4,45.0,110000.0
+108408,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,125,4,45.0,65000.0
+172961,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,110,4,45.0,95000.0
+172962,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,100,4,55.0,80000.0
+108446,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,110,4,55.0,90000.0
+172963,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,100,4,65.0,95000.0
+108397,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,50,4,55.0,165000.0
+108396,Rigid Rcc slab and steel plate,Tile,Temporary House with Thatched Mud Roof,35,4,55.0,120000.0
+108522,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Mud Mortar,35,4,40.0,85000.0
+172964,Rigid Rcc slab and steel plate,Tile,Stone Mud Mortar,30,4,50.0,120000.0
+108531,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,75,5,55.0,130000.0
+108392,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,75,4,45.0,75000.0
+108605,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Mud Mortar,75,4,35.0,85000.0
+108395,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,75,4,45.0,70000.0
+108431,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,35,4,50.0,135000.0
+172965,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Mud Mortar,50,4,55.0,95000.0
+172966,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,45,4,45.0,65000.0
+172967,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,55,5,50.0,110000.0
+110387,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Mud Mortar,45,5,55.0,125000.0
+108400,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,30,4,45.0,95000.0
+172977,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,125,4,45.0,65000.0
+172974,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,125,4,55.0,160000.0
+172969,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,125,4,45.0,85000.0
+108318,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,125,4,45.0,110000.0
+108466,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,200,4,65.0,90000.0
+108525,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,210,4,55.0,85000.0
+108468,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,225,4,55.0,120000.0
+172971,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,200,4,55.0,110000.0
+172972,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,210,4,55.0,160000.0
+110385,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,225,5,65.0,150000.0
+108430,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,200,5,55.0,165000.0
+108050,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,125,4,55.0,90000.0
+108567,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,125,4,45.0,65000.0
+108467,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,155,4,35.0,75000.0
+108508,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,125,4,55.0,65000.0
+108606,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,155,4,55.0,145000.0
+110383,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,155,4,50.0,135000.0
+172975,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,135,4,40.0,110000.0
+108532,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,180,4,55.0,65000.0
+110409,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,155,4,45.0,125000.0
+172976,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,155,4,45.0,115000.0
+108383,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,165,4,45.0,85000.0
+172978,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,130,4,40.0,85000.0
+108391,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,175,4,45.0,70000.0
+108519,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,120,4,45.0,45000.0
+108053,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,145,4,55.0,175000.0
+108432,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,125,5,55.0,175000.0
+108565,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,50,4,45.0,120000.0
+172979,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Mud Mortar,110,4,55.0,120000.0
+172968,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,35,4,55.0,135000.0
+108441,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,75,4,50.0,175000.0
+110366,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,200,5,55.0,125000.0
+108462,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,175,5,65.0,135000.0
+110876,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,75,7,60.0,130000.0
+172980,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,55,3,55.0,85000.0
+109248,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,25,4,55.0,95000.0
+172981,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,15,2,55.0,55000.0
+110875,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,45,3,45.0,85000.0
+108280,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,100,4,45.0,110000.0
+109250,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,35,2,40.0,115000.0
+110893,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,45,2,55.0,135000.0
+110378,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,45,2,45.0,75000.0
+110399,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,45,2,45.0,110000.0
+172982,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,55,3,50.0,75000.0
+108049,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,45,2,45.0,45000.0
+109249,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Mud Mortar,30,2,45.0,85000.0
+110880,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,50,2,40.0,65000.0
+172983,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,25,3,45.0,75000.0
+110942,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,55,4,50.0,115000.0
+172984,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,50,3,45.0,55000.0
+110363,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,35,2,40.0,135000.0
+110878,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,35,3,55.0,70000.0
+109228,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,65,2,50.0,120000.0
+172985,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,35,4,55.0,85000.0
+108277,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,175,5,55.0,110000.0
+172986,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,45,3,55.0,75000.0
+108398,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,45,2,35.0,150000.0
+108438,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,45,2,45.0,120000.0
+108599,Mud,Flexible Timber without Brace Steel,Stone Cement Mortar,100,2,20.0,60000.0
+109716,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,30,3,0.0,0.0
+109709,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,30,5,0.0,0.0
+108231,Rigid Rcc slab and steel plate,Tile,Brick Mud,70,5,0.0,0.0
+109711,Mud,Tile,Brick Mud,60,3,0.0,0.0
+109753,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,50,4,0.0,0.0
+108232,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,60,3,0.0,0.0
+109712,Mud,Tile,Temporary House with Thatched Mud Roof,60,3,0.0,0.0
+108208,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,1,20.0,100000.0
+108207,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,120,2,20.0,50000.0
+188491,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,2,20.0,100000.0
+108204,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,2,20.0,50000.0
+173313,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,2,20.0,30000.0
+173314,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,2,20.0,100000.0
+172996,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,2,30.0,30000.0
+108206,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,120,2,20.0,50000.0
+172997,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,2,20.0,40000.0
+172998,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,120,2,20.0,30000.0
+172999,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,2,20.0,30000.0
+173000,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,2,30.0,60000.0
+173001,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,2,20.0,100000.0
+110340,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,90,3,20.0,50000.0
+108211,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,2,20.0,30000.0
+110402,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,60,2,20.0,20000.0
+108212,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,90,1,20.0,100000.0
+108710,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,4,20.0,50000.0
+108209,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,4,20.0,20000.0
+108706,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,2,20.0,30000.0
+173002,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,45,4,30.0,2000.0
+109141,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,45,3,20.0,3000.0
+173005,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,100,2,20.0,30000.0
+173013,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,40,5,30.0,20000.0
+173030,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,20,5,15.0,10000.0
+173031,Rigid Rcc slab and steel plate,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,30,3,10.0,15000.0
+173034,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,15,4,5.0,2000.0
+109212,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,5,1,2.0,2000.0
+110207,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,15,3,5.0,10000.0
+110211,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,25,3,10.0,10000.0
+110212,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,40,3,15.0,15000.0
+173038,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,30,2,0.0,0.0
+109163,Mud,Flexible Timber without Brace Steel,Brick in Mud General,25,3,0.0,0.0
+110223,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,15,4,0.0,0.0
+173039,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,20,5,0.0,0.0
+109211,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,20,3,3.0,0.0
+110209,Mud,Flexible Timber without Brace Steel,Brick Mud,30,12,0.0,0.0
+110392,Mud,Flexible Timber without Brace Steel,Brick Mud,10,4,0.0,0.0
+173040,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,10,3,0.0,0.0
+173041,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,10,4,0.0,0.0
+110203,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,10,73,0.0,0.0
+110204,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,20,6,0.0,0.0
+110202,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,5,1,0.0,0.0
+110177,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,10,5,0.0,0.0
+172915,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,30,7,0.0,0.0
+108471,Semi Rigid Timber,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,110,2,29.0,30000.0
+108344,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,115,2,35.0,35000.0
+108326,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,2,2,30.0,80000.0
+173055,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,118,2,35.0,60000.0
+108484,Rigid Rcc slab and steel plate,Tile,Brick Mud,100,2,20.0,50000.0
+173056,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,100,2,20.0,60000.0
+108548,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,115,2,35.0,40000.0
+108487,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,115,2,35.0,35000.0
+108576,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,100,2,35.0,35000.0
+108324,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,105,2,20.0,50000.0
+108493,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,90,2,35.0,25000.0
+108422,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,105,2,25.0,80000.0
+108488,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,90,2,35.0,60000.0
+108512,Rigid Rcc slab and steel plate,Tile,Brick Mud,100,2,25.0,45000.0
+108491,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,100,2,20.0,40000.0
+108537,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,90,2,35.0,38000.0
+110084,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Non Engineered Reinforced Concrete Frame,80,7,20.0,100000.0
+173058,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,90,2,45.0,60000.0
+173057,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,100,2,30.0,70000.0
+108633,Mud,Rigid Rcc slab and steel plate,Stone Cement Mortar,98,2,26.0,35000.0
+173059,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Mud Mortar,100,2,20.0,40000.0
+173060,Rigid Rcc slab and steel plate,Tile,Stone Cement Mortar,105,2,25.0,50000.0
+173065,Mud,Flexible Timber without Brace Steel,Brick Mud,50,4,0.0,0.0
+173066,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,90,2,20.0,100000.0
+173067,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,2,20.0,30000.0
+173069,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,30,1,20.0,100000.0
+173070,Mud,Flexible Timber without Brace Steel,Brick Mud,30,1,30.0,50000.0
+173071,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,30,1,20.0,100000.0
+110321,Mud,Semi Rigid Timber Joists with Brace Steel,Brick in Mud General,28,5,15.0,25000.0
+110935,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,35,3,15.0,15000.0
+110882,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,40,5,25.0,80000.0
+110867,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,15,3,5.0,2000.0
+110869,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,45,7,25.0,35000.0
+110382,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,30,3,5.0,15000.0
+110407,Rigid Rcc slab and steel plate,Tile,Stone Mud Mortar,35,3,10.0,15000.0
+173096,Mud,Flexible Timber without Brace Steel,Brick Mud,10,3,5.0,5000.0
+173097,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,23,2,5.0,5000.0
+173098,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,32,2,10.0,15000.0
+110398,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,30,5,25.0,50000.0
+109218,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,20,3,0.0,0.0
+110946,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,15,3,0.0,0.0
+110221,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,5,2,0.0,0.0
+173099,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,10,2,0.0,0.0
+110219,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,20,4,0.0,0.0
+173100,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,30,4,0.0,0.0
+109233,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,15,3,0.0,0.0
+173101,Mud,Flexible Timber without Brace Steel,Brick Mud,20,3,0.0,0.0
+109232,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,15,3,0.0,0.0
+110921,Mud,Tile,Temporary House with Thatched Mud Roof,30,3,0.0,0.0
+110872,Mud,Flexible Timber without Brace Steel,Brick Mud,30,5,0.0,0.0
+173102,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,20,7,0.0,0.0
+110871,Mud,Tile,Temporary House with Thatched Mud Roof,15,2,0.0,0.0
+109245,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,5,0,0.0,0.0
+110866,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,30,7,0.0,0.0
+110913,Mud,Flexible Timber without Brace Steel,Brick Mud,15,3,0.0,0.0
+109230,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,20,2,0.0,0.0
+173103,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,20,3,0.0,0.0
+109231,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,30,4,0.0,0.0
+110883,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,20,3,0.0,0.0
+110927,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,30,3,0.0,0.0
+109229,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,20,2,0.0,0.0
+110884,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,10,3,0.0,0.0
+110361,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,20,2,0.0,0.0
+110879,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,20,3,0.0,0.0
+108773,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,20,3,0.0,0.0
+173114,Rigid Rcc slab and steel plate,Tile,Stone Cement Mortar,100,2,20.0,100000.0
+110929,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,50,5,50.0,50000.0
+110940,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,6,2,5.0,5000.0
+173117,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,35,3,50.0,20000.0
+188485,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,70,7,30.0,25000.0
+109251,Rigid Rcc slab and steel plate,Tile,Brick Mud,20,4,25.0,50000.0
+173115,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,55,6,20.0,20000.0
+173116,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,40,5,20.0,25000.0
+109797,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,70,5,0.0,0.0
+108320,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,110,2,35.0,55000.0
+108420,Mud,Tile,Stone Mud Mortar,100,2,20.0,60000.0
+188635,Mud,Tile,Stone Mud Mortar,100,2,20.0,25000.0
+108601,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,98,2,35.0,40000.0
+188636,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,100,2,20.0,70000.0
+108577,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,100,2,30.0,200000.0
+108553,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,95,2,36.0,70000.0
+108495,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,100,2,25.0,100000.0
+108503,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,100,2,20.0,80000.0
+108496,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,90,2,35.0,50000.0
+108620,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,95,2,35.0,50000.0
+108549,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,100,2,20.0,70000.0
+108314,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,100,2,30.0,80000.0
+108308,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,96,2,35.0,60000.0
+108315,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,105,2,30.0,100000.0
+108622,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Mud Mortar,95,2,35.0,55000.0
+108851,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,80,4,40.0,100000.0
+188641,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,105,2,20.0,60000.0
+108631,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,76,2,35.0,50000.0
+188640,Mud,Tile,Brick in Mud General,110,2,25.0,60000.0
+108311,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,96,2,35.0,50000.0
+173129,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,95,2,35.0,150000.0
+108309,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,100,2,30.0,100000.0
+109298,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,100,2,30.0,60000.0
+188649,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,96,2,35.0,80000.0
+110554,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,80,3,50.0,40000.0
+110626,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,90,2,50.0,150000.0
+108069,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,90,2,50.0,150000.0
+108949,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,60,2,20.0,50000.0
+110693,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,120,3,30.0,100000.0
+110695,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,120,2,30.0,100000.0
+110619,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,2,30.0,100000.0
+110623,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,2,30.0,100000.0
+110621,Mud,Flexible Timber without Brace Steel,Brick in Mud General,150,1,30.0,100000.0
+110610,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,90,1,30.0,100000.0
+110677,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,90,2,30.0,100000.0
+108930,Mud,Flexible Timber without Brace Steel,Brick Mud,90,3,30.0,100000.0
+110618,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick in Mud General,90,2,30.0,100000.0
+110607,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,3,30.0,100000.0
+110616,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,2,30.0,100000.0
+110614,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,120,2,30.0,100000.0
+173157,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,120,2,30.0,100000.0
+173158,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,120,2,30.0,100000.0
+173159,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,120,2,30.0,100000.0
+110613,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,120,2,20.0,100000.0
+109007,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,120,2,30.0,50000.0
+110606,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,120,2,20.0,100000.0
+173160,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,120,2,30.0,100000.0
+173161,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,120,2,30.0,100000.0
+110933,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Mud Mortar,25,2,10.0,10000.0
+109252,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,20,1,5.0,5000.0
+110926,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,8,3,20.0,20000.0
+108705,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,40,3,15.0,15000.0
+173167,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,15,2,5.0,10000.0
+173169,Mud,Flexible Timber without Brace Steel,Brick Mud,30,7,40.0,35000.0
+110336,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,5,2,10.0,10000.0
+173174,Mud,Flexible Timber without Brace Steel,Brick Mud,10,2,0.0,0.0
+173175,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,10,3,0.0,0.0
+110919,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,5,2,0.0,0.0
+108298,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,15,3,0.0,0.0
+173176,Mud,Flexible Timber without Brace Steel,Brick Mud,10,3,0.0,0.0
+173316,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,10,3,0.0,0.0
+110944,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,15,3,0.0,0.0
+108294,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,10,3,0.0,0.0
+109217,Mud,Flexible Timber without Brace Steel,Brick Mud,10,4,0.0,0.0
+109234,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,10,5,0.0,0.0
+110905,Mud,Tile,Temporary House with Thatched Mud Roof,30,4,0.0,0.0
+108336,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,130,2,40.0,200000.0
+108337,Mud,Tile,Brick Mud,110,2,30.0,200000.0
+173183,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,18,2,10.0,10000.0
+108338,Mud,Flexible Timber without Brace Steel,Stone Cement Mortar,135,2,40.0,120000.0
+188643,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,110,2,30.0,200000.0
+108936,Mud,Flexible Timber without Brace Steel,Stone Cement Mortar,135,2,30.0,100000.0
+108339,Mud,Flexible Timber without Brace Steel,Stone Cement Mortar,110,2,25.0,100000.0
+173184,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,135,2,35.0,10000.0
+108340,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,120,2,20.0,80000.0
+110675,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,135,2,45.0,200000.0
+188644,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,110,2,20.0,80000.0
+110659,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,135,2,35.0,40000.0
+188646,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,110,2,20.0,60000.0
+110631,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,135,2,35.0,80000.0
+110630,Mud,Tile,Brick Mud,110,2,25.0,80000.0
+188647,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,110,2,20.0,40000.0
+110698,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,135,2,35.0,35000.0
+110633,Mud,Tile,Brick Mud,110,2,25.0,200000.0
+110637,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,135,2,38.0,200000.0
+188648,Others,Tile,Brick in Mud General,110,2,30.0,200000.0
+110649,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,135,2,35.0,55000.0
+110648,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,110,2,20.0,50000.0
+108980,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,135,2,35.0,45000.0
+110700,Mud,Tile,Temporary House with Thatched Mud Roof,110,2,20.0,40000.0
+110647,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,135,2,35.0,200000.0
+110646,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,110,2,30.0,100000.0
+108951,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,110,2,25.0,100000.0
+110642,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,120,2,45.0,200000.0
+110680,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,110,2,25.0,150000.0
+110641,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,115,2,25.0,35000.0
+108329,Mud,Flexible Timber without Brace Steel,Stone Cement Mortar,110,2,25.0,100000.0
+110651,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,120,2,20.0,80000.0
+109011,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,115,2,35.0,35000.0
+110009,Mud,Tile,Brick Mud,100,3,0.0,0.0
+110673,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,115,2,25.0,40000.0
+109729,Mud,Tile,Stone Mud Mortar,90,3,0.0,0.0
+109730,Mud,Tile,Brick Mud,90,3,0.0,0.0
+108952,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,100,2,35.0,60000.0
+110821,Mud,Tile,Temporary House with Thatched Mud Roof,60,2,30.0,100000.0
+173198,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,30,2,20.0,20000.0
+173199,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,30,2,20.0,20000.0
+173200,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,30,2,30.0,50000.0
+110807,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,60,2,50.0,100000.0
+110834,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,30,2,20.0,50000.0
+108959,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,60,2,20.0,50000.0
+110809,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,30,2,30.0,50000.0
+173204,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,60,2,30.0,100000.0
+110810,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,30,2,20.0,100000.0
+110811,Mud,Tile,Brick Mud,30,2,30.0,100000.0
+173207,Mud,Flexible Timber without Brace Steel,Brick Mud,30,2,20.0,30000.0
+108931,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,30,2,50.0,100000.0
+109705,Mud,Flexible Timber without Brace Steel,Brick Mud,30,4,0.0,0.0
+173220,Mud,Flexible Timber without Brace Steel,Brick Mud,30,2,0.0,0.0
+173221,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,20,6,0.0,0.0
+110515,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,30,7,0.0,0.0
+173222,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,20,2,0.0,0.0
+109774,Mud,Tile,Brick Mud,30,3,0.0,0.0
+110005,Mud,Flexible Timber without Brace Steel,Brick Mud,10,0,0.0,0.0
+109722,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,10,1,0.0,0.0
+109843,Mud,Flexible Timber without Brace Steel,Brick Mud,30,5,0.0,0.0
+109741,Mud,Flexible Timber without Brace Steel,Brick Mud,30,4,0.0,0.0
+109742,Mud,Flexible Timber without Brace Steel,Brick Mud,35,3,0.0,0.0
+173231,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,55,3,55.0,50000.0
+110008,Rigid Rcc slab and steel plate,Tile,Brick Mud,30,2,5.0,10000.0
+173247,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,10,1,5.0,5000.0
+109798,Mud,Flexible Timber without Brace Steel,Brick Mud,6,1,5.0,5000.0
+173248,Mud,Flexible Timber without Brace Steel,Brick Mud,30,2,5.0,10000.0
+173249,Mud,Flexible Timber without Brace Steel,Brick Mud,35,3,5.0,15000.0
+109327,,Rigid Rcc slab and steel plate,Stone Cement Mortar,95,2,45.0,100000.0
+173255,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,95,2,35.0,50000.0
+108043,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,110,2,30.0,200000.0
+109312,Semi Rigid Timber,Tile,Temporary House with Thatched Mud Roof,20,4,0.0,0.0
+109324,Rigid Rcc slab and steel plate,Tile,Brick Mud,20,4,0.0,0.0
+108077,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,98,2,35.0,50000.0
+108072,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,100,2,30.0,200000.0
+108070,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,110,2,30.0,150000.0
+109273,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,98,2,45.0,150000.0
+108074,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,110,2,25.0,100000.0
+110681,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,100,2,30.0,40000.0
+110682,Rigid Rcc slab and steel plate,Tile,Brick Mud,110,2,20.0,80000.0
+108150,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,98,2,35.0,100000.0
+109265,Mud,Flexible Timber without Brace Steel,Stone Cement Mortar,96,2,25.0,150000.0
+108109,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,80,2,20.0,50000.0
+109266,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,95,2,45.0,200000.0
+109267,Rigid Rcc slab and steel plate,Tile,Brick Mud,90,2,20.0,100000.0
+173258,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,95,2,35.0,35000.0
+108895,Mud,Tile,Brick Mud,60,3,20.0,20000.0
+108118,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,80,2,25.0,200000.0
+188492,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,60,4,40.0,10000.0
+108920,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,50,4,20.0,5000.0
+109342,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,60,5,30.0,3000.0
+108116,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,99,2,35.0,60000.0
+108149,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,95,2,35.0,100000.0
+110611,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,120,2,30.0,50000.0
+108976,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,120,2,30.0,50000.0
+110674,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,60,2,50.0,200000.0
+108944,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,60,2,50.0,200000.0
+108056,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,60,2,50.0,200000.0
+108051,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,30,2,50.0,200000.0
+108940,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,30,2,50.0,50000.0
+108941,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,60,2,50.0,100000.0
+110549,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,35,10,20.0,0.0
+110546,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,45,10,5.0,10000.0
+110446,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,35,3,5.0,15000.0
+173269,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,5,1,10.0,5000.0
+109999,Mud,Flexible Timber without Brace Steel,Brick Mud,45,5,10.0,20000.0
+173270,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,30,3,0.0,0.0
+173272,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,20,3,0.0,0.0
+110563,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,20,0,0.0,0.0
+110577,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,20,4,0.0,0.0
+110545,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,20,4,0.0,0.0
+109978,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,10,0,0.0,0.0
+173274,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Temporary House with Thatched Mud Roof,8,0,0.0,0.0
+109278,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,80,3,60.0,40000.0
+108921,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,60,3,50.0,40000.0
+173279,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,42,1,0.0,0.0
+108143,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,80,7,40.0,0.0
+109258,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Non Engineered Reinforced Concrete Frame,50,0,0.0,0.0
+173282,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,57,3,50.0,40000.0
+173284,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,60,2,25.0,50000.0
+108918,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Non Engineered Reinforced Concrete Frame,52,2,15.0,50000.0
+109256,Mud,Tile,Temporary House with Thatched Mud Roof,70,3,20.0,40000.0
+173286,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,54,3,23.0,0.0
+110147,Mud,Rigid Rcc slab and steel plate,Brick Mud,60,4,25.0,50000.0
+173288,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,55,3,23.0,0.0
+108142,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,45,3,23.0,23.0
+109338,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,75,3,45.0,45000.0
+173290,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,60,3,25.0,10000.0
+108917,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,62,3,26.0,15000.0
+173291,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,54,3,12.0,0.0
+173292,Mud,Tile,Temporary House with Thatched Mud Roof,58,3,13.0,0.0
+108916,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,86,3,25.0,75000.0
+188634,Mud,Semi Rigid Timber Joists with Brace Steel,Stone Mud Mortar,110,2,25.0,100000.0
+108627,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,95,2,25.0,30000.0
+108626,Mud,Tile,Stone Mud Mortar,110,2,25.0,80000.0
+108112,Mud,Flexible Timber without Brace Steel,Stone Mud Mortar,100,2,32.0,50000.0
+108625,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Stone Cement Mortar,110,2,20.0,70000.0
+108624,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,111,2,35.0,80000.0
+108617,Rigid Rcc slab and steel plate,Tile,Brick Mud,110,2,25.0,100000.0
+108615,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,115,2,38.0,80000.0
+108614,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Stone Cement Mortar,115,2,35.0,200000.0
+109309,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,35,2,20.0,50000.0
+110054,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,20,2,15.0,10000.0
+108830,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,50,2,15.0,10000.0
+110096,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,75,7,25.0,100000.0
+109317,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Brick Mud,105,2,25.0,50000.0
+109272,Rigid Rcc slab and steel plate,Tile,Brick Mud,60,2,25.0,50000.0
+173300,Mud,Tile,Brick Mud,70,4,25.0,50000.0
+108867,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,63,3,23.0,35000.0
+173305,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,53,10,50.0,50000.0
+108906,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,35,4,23.0,0.0
+108905,Rigid Rcc slab and steel plate,Rigid Rcc slab and steel plate,Non Engineered Reinforced Concrete Frame,45,2,10.0,0.0
+173306,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,62,2,35.0,45000.0
+109331,Mud,Flexible Timber without Brace Steel,Temporary House with Thatched Mud Roof,49,2,5.0,0.0
+109287,Rigid Rcc slab and steel plate,Flexible Timber without Brace Steel,Brick Mud,76,4,50.0,150000.0
+108158,Mud,Semi Rigid Timber Joists with Brace Steel,Temporary House with Thatched Mud Roof,80,4,50.0,40000.0
