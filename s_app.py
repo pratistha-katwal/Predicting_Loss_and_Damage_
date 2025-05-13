@@ -76,6 +76,11 @@ if st.button("Predict"):
 
             # Update layout for the plot
             fig.update_layout(
+                scene=dict(
+                    xaxis=dict(backgroundcolor="white", gridcolor="lightgrey", zerolinecolor="lightgrey"),
+                    yaxis=dict(backgroundcolor="white", gridcolor="lightgrey", zerolinecolor="lightgrey"),
+                    zaxis=dict(backgroundcolor="white", gridcolor="lightgrey", zerolinecolor="lightgrey"),
+                ),
                 margin=dict(l=0, r=0, b=0, t=50),  # Set top margin to 50 to accommodate the title
                 title=dict(
                     x=0.5,  # Center the title
