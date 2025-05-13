@@ -2,25 +2,33 @@ import streamlit as st
 import joblib
 import pandas as pd
 
-# Load the trained models
-damage_pipeline = joblib.load('models/damage_pipeline.pkl')
-loss_pipeline = joblib.load('models/loss_pipeline.pkl')
-metrics = joblib.load('models/model_metrics.pkl')
+# Loading the trained models
+damage_pipeline = joblib.load('models/damage_pipeline_v1.pkl')
+loss_pipeline = joblib.load('models/loss_pipeline_v1.pkl')
+metrics = joblib.load('models/model_metrics_v1.pkl')
 
-#Load datatset
+#Loading datatset
 df = pd.read_csv('Dataset/dataset.csv')
 
 
-# Extract unique typologies from your dataset
+# Extracting unique typologies from dataset
 typologies = df['Building Typology'].unique().tolist()
 
 # Display title and model information
 st.title("🏠 Structural Damage & Loss Prediction from Flooding using Machine Learning")
-st.write("This app predicts the building damage and loss based on the level and hours of inundation.")
+
+st.write("""
+    This app predicts the building damage ratio (in %) and monetary loss (in NPR) based on the building typology, level, 
+    and duration of inundation.
+""")
+
+st.write("""
+    Please provide the necessary details below to get the predicted damage ratio (in %) and loss amount (in NPR).
+""")
 
 typology = st.selectbox("Select Building Typology", typologies)
-inundation = st.number_input("Inundation Level (m)", min_value=0.0, format="%.2f")
-hours = st.number_input("Hours of Inundation (hrs)", min_value=0.0, format="%.1f")
+inundation = st.number_input("Inundation Level (in meters)", min_value=0.0, format="%.2f")
+hours = st.number_input("Hours of Inundation (in hours)", min_value=0.0, format="%.1f")
 
 if st.button("Predict"):
     hr_lv = inundation * hours
@@ -28,9 +36,9 @@ if st.button("Predict"):
         'Building Typology': typology,
         'Level of Inundation(m)': inundation,
         'Hours of Inundation(hrs)': hours,
-        'hr_lv': hr_lv
+        'Combined effect of level and hour of inundation': hr_lv
     }])
-    if inundation == 0 and hours == 0:
+    if inundation == 0:
         damage_ratio = 0.0
         loss = 0.0
     else:
@@ -44,7 +52,7 @@ if st.button("Predict"):
 
 st.subheader("Model Information")
 st.write("""
-The models used for this prediction are **Gradient Boosting Regressor**, which is an ensemble learning algorithm that combines the predictions of multiple weak models to create a more accurate prediction.
+    The models used for this prediction are Gradient Boosting Regressors, which are ensemble learning algorithms that combine the predictions of multiple weak learners to produce more accurate predictions.
 """)
 st.write(f"R² score for **Damage Prediction Model**: **{metrics['damage_r2']:.4f}**")
 st.write(f"R² score for **Loss Prediction Model**: **{metrics['loss_r2']:.4f}**")
