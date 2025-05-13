@@ -65,7 +65,7 @@ if st.button("Predict"):
     with col2:
         st.write("")
         if inundation != 0:
-            st.subheader("Impact Visualization")
+            #st.subheader("Impact Visualization")
             fig = px.scatter_3d(input_df, 
                                 x='Level of Inundation(m)', 
                                 y='Hours of Inundation(hrs)', 
@@ -91,8 +91,8 @@ if st.button("Predict"):
                     y=0.98,  # Adjust the title's vertical position
                     yanchor='top'  # Anchor the title to the top
                 ),
-                width=200,  # Set the width of the chart
-                height=250  # Set the height of the chart
+                width=300,  # Set the width of the chart
+                height=300  # Set the height of the chart
             )
 
             # Display the plot
