@@ -18,7 +18,7 @@ typologies = df['Building Typology'].unique().tolist()
 st.title("🏠 Structural Damage & Loss Prediction from Flooding using Machine Learning")
 
 st.write("""
-    This app predicts the building damage ratio (in %) and monetary loss (in NPR) based on the building typology, level, 
+    This Web app predicts the building damage ratio (in %) and monetary loss (in NPR) based on the building typology, level, 
     and duration of inundation.
 """)
 
@@ -51,8 +51,20 @@ if st.button("Predict"):
 
 
 st.subheader("Model Information")
+
 st.write("""
-    The models used for this prediction are Gradient Boosting Regressors, which are ensemble learning algorithms that combine the predictions of multiple weak learners to produce more accurate predictions.
+    The models used for this prediction are Gradient Boosting Regressors, which are ensemble learning algorithms 
+    that combine the predictions of multiple weak learners to produce more accurate predictions.
 """)
+
 st.write(f"R² score for **Damage Prediction Model**: **{metrics['damage_r2']:.4f}**")
 st.write(f"R² score for **Loss Prediction Model**: **{metrics['loss_r2']:.4f}**")
+st.markdown("<br>", unsafe_allow_html=True)
+st.markdown(
+    "<p style='text-align: center; font-style: italic;'>"
+    "Web Developed by Pratistha Katwal<br>"
+    "</p>",
+    unsafe_allow_html=True
+)
+
+
