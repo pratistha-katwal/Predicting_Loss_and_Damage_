@@ -51,7 +51,10 @@ if st.button("Predict"):
     else:
         damage_ratio = damage_pipeline.predict(input_df)[0]
         input_df['Ratio of Damage(%)'] = damage_ratio
-        loss = loss_pipeline.predict(input_df)[0]
+        if damage_ratio < 1e-3:
+            loss = 0.0
+        else:
+            loss = loss_pipeline.predict(input_df)[0]
         damage_ratio = max(damage_ratio, 0.0)  # Ensure non-negative damage ratio
         loss = max(loss, 0.0)  # Ensure non-negative loss
 
