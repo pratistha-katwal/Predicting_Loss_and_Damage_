@@ -7,6 +7,8 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.metrics import mean_squared_error, r2_score
 import joblib
+import numpy as np
+
 
 # Loading data
 df = pd.read_csv('Dataset/dataset.csv')
@@ -86,5 +88,9 @@ metrics = {
     'loss_r2': loss_r2
 }
 joblib.dump(metrics, 'models/model_metrics_v1.pkl')
+
+#Saving typologies
+typologies = df['Building Typology'].unique().tolist()
+joblib.dump(typologies, 'models/typologies_v1.pkl')
 
 print("✅ Models trained and saved.")

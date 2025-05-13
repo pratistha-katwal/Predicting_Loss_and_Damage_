@@ -6,13 +6,7 @@ import pandas as pd
 damage_pipeline = joblib.load('models/damage_pipeline_v1.pkl')
 loss_pipeline = joblib.load('models/loss_pipeline_v1.pkl')
 metrics = joblib.load('models/model_metrics_v1.pkl')
-
-#Loading datatset
-df = pd.read_csv('Dataset/dataset.csv')
-
-
-# Extracting unique typologies from dataset
-typologies = df['Building Typology'].unique().tolist()
+typologies = joblib.load('models/typologies_v1.pkl')
 
 # Display title and model information
 st.title("🏠 Structural Damage & Loss Prediction from Flooding using Machine Learning")
@@ -66,5 +60,6 @@ st.markdown(
     "</p>",
     unsafe_allow_html=True
 )
+
 
 
