@@ -7,10 +7,10 @@ import plotly.express as px
 st.set_page_config(page_title="Structural Damage & Loss Prediction", layout="wide")
 
 # Loading the trained models
-damage_pipeline = joblib.load('models/damage_pipeline_v1.pkl')
-loss_pipeline = joblib.load('models/loss_pipeline_v1.pkl')
-metrics = joblib.load('models/model_metrics_v1.pkl')
-typologies = joblib.load('models/typologies_v1.pkl')
+damage_pipeline = joblib.load('s_models/damage_pipeline_v1.pkl')
+loss_pipeline = joblib.load('s_models/loss_pipeline_v1.pkl')
+metrics = joblib.load('s_models/model_metrics_v1.pkl')
+typologies = joblib.load('s_models/typologies_v1.pkl')
 
 
 
@@ -21,7 +21,7 @@ st.write("""
     This Web app predicts the building damage ratio (in %) and monetary loss (in NPR) based on the building typology, level, 
     and duration of inundation.
 """)
- 
+
 st.write("""
     Please provide the necessary details below to get the predicted damage ratio (in %) and loss amount (in NPR).
 """)
