@@ -14,7 +14,7 @@ typologies = joblib.load('models/typologies_v1.pkl')
 
 
 
-# Display title and model information
+##Display title and model information
 st.title("🏠 Structural Damage & Loss Prediction from Flooding using Machine Learning")
 
 st.write("""
