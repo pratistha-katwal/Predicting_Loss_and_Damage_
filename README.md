@@ -1,4 +1,4 @@
-# 🏠 Building Damage & Loss Prediction
+# 🏠 Building Damage & Loss Prediction App
 
 This Streamlit web app predicts building damage and monetary loss based on flood inundation data.
 
@@ -23,7 +23,7 @@ This Streamlit web app predicts building damage and monetary loss based on flood
 - Gradient Boosting Regressor for loss prediction.
 
 ## 📚 Dataset
-Stored at `/Dataset/dataset.csv`
+Due to privacy concerns, the dataset is not publicly shared.
 
 ## 📦 Models
 Trained models are stored in `/models/`
