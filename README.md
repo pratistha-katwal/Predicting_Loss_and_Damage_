@@ -1,4 +1,4 @@
-# 🏠 Building Damage & Loss Prediction App
+# 🏠 Flood Impact Assessment App: Predicting Structural Damage & Monetary Loss
 
 This Streamlit web app predicts building damage and monetary loss based on flood inundation data.
 
